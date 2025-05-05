@@ -37,10 +37,10 @@ public class Point {
 
     @Override
     public boolean equals(Object o) {
-        if (this == o) return true; // Если объекты совпадают по ссылке
-        if (o == null || getClass() != o.getClass()) return false; // Если другой объект null или другого типа
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false; 
 
-        Point point = (Point) o; // Приводим Object к Point
+        Point point = (Point) o; 
 
         return Double.compare(point.x, x) == 0 &&
                 Double.compare(point.y, y) == 0 &&
@@ -52,7 +52,7 @@ public class Point {
         int result;
         long temp;
 
-        result = 31; // Начальное значение
+        result = 31; 
         temp = Double.doubleToLongBits(x);
         result = 31 * result + (int) (temp ^ (temp >>> 32));
 
