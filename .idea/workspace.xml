@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5ca0cb86-9c8a-498d-b304-1f67598bb893" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit3 Test Class" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2uAkxb6djR6VemfV9XA0uZYx2CC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Debug",
+    "JUnit.CubeCalculationServiceTest.executor": "Run",
+    "JUnit.CubeRatioServiceTest.executor": "Run",
+    "JUnit.CubeRatioServiceTest.testGetCubeRatio_CubeCrossingXY.executor": "Run",
+    "JUnit.CubeRatioServiceTest.testGetCubeRatio_CubeCrossingYZ.executor": "Debug",
+    "JUnit.CubeRatioServiceTest.testGetCubeRatio_CubeCrossingZX.executor": "Debug",
+    "JUnit.DataParserTest.executor": "Run",
+    "JUnit.DataReaderTest.executor": "Run",
+    "JUnit.DataReaderTest.testReadData_Success.executor": "Run",
+    "JUnit.PlaneServiceTest.executor": "Run",
+    "JUnit.java in factory-method.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit3",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "21",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/uchoba/ESDE/Design patterns LAB 1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/workspace intelijidea/Design patterns LAB 1/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace intelijidea\Design patterns LAB 1\src\main\resources" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.esdc.service" />
+      <recent name="com.esdc" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.esdc" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in factory-method">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.esdc.Main" />
+      <module name="factory-method" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.esdc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in factory-method" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="factory-method" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataReaderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="factory-method" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.esdc.reader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.esdc.reader" />
+      <option name="MAIN_CLASS_NAME" value="com.esdc.reader.DataReaderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataReaderTest.testReadData_Success" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="factory-method" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.esdc.reader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.esdc.reader" />
+      <option name="MAIN_CLASS_NAME" value="com.esdc.reader.DataReaderTest" />
+      <option name="METHOD_NAME" value="testReadData_Success" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java in factory-method" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="factory-method" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/src/test/java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in factory-method" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.DataReaderTest.testReadData_Success" />
+        <item itemvalue="JUnit.DataReaderTest" />
+        <item itemvalue="JUnit.java in factory-method" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ca0cb86-9c8a-498d-b304-1f67598bb893" name="Changes" comment="" />
+      <created>1741699013866</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741699013866</updated>
+      <workItem from="1741699015048" duration="8160000" />
+      <workItem from="1742918994829" duration="8761000" />
+      <workItem from="1742980121258" duration="13110000" />
+      <workItem from="1743060600700" duration="982000" />
+      <workItem from="1743338754790" duration="18000" />
+      <workItem from="1743368393095" duration="12000" />
+      <workItem from="1744545505707" duration="2857000" />
+      <workItem from="1744618386939" duration="2161000" />
+      <workItem from="1744793425518" duration="11000" />
+      <workItem from="1746377379548" duration="1318000" />
+      <workItem from="1746378943996" duration="69000" />
+      <workItem from="1746379041183" duration="488000" />
+      <workItem from="1746379573119" duration="7863000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
